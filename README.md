@@ -8,4 +8,4 @@ Pkg install python2
 
 Pkg install git
 
-Git clone 
+git clone https://github.com/ady08/BRUTEFORCEnew
